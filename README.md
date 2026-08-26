@@ -1,5 +1,6 @@
-# Ecommerce-DE-ML-Project
-E-commerce data platform on GCP, integrating data engineering, orchestration, and machine learning.
+# E-Commerce Data Engineering & Customer Segmentation Platform
+An end-to-end Google Cloud data engineering and machine learning pipeline for processing e-commerce data, building customer-level analytics, and performing ML-based customer segmentation.
+The project demonstrates how to design and orchestrate a complete data pipeline using Cloud Storage, Dataproc, BigQuery, Cloud Composer, and Vertex AI.
 
 # File Description
 ecom_dag.py - Airflow Dag 
@@ -36,6 +37,10 @@ scikit-learn | Vertex AI Model Registry | Vertex AI Batch Prediction
 
 # BigQuery Data Warehouse & ML tables and views
 <img width="577" height="396" alt="image" src="https://github.com/user-attachments/assets/55d61c24-7f3a-4890-9556-2ea186d86a11" />
+
+# Vertex Ai predicted Data
+<img width="883" height="476" alt="image" src="https://github.com/user-attachments/assets/0db89e37-058e-4233-81a5-0b5fd294513c" />
+
 
 
 

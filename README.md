@@ -26,6 +26,9 @@ scikit-learn | Vertex AI Model Registry | Vertex AI Batch Prediction
 # Airflow Pipeline
 <img width="1242" height="172" alt="image" src="https://github.com/user-attachments/assets/89a1289d-28d7-4251-8849-0f761064f465" />
 
+# Dataproc Config 
+<img width="503" height="846" alt="image" src="https://github.com/user-attachments/assets/64a3b30d-e878-4329-bf2d-ab138e94820a" />
+
 # Staging
 <img width="1235" height="290" alt="image" src="https://github.com/user-attachments/assets/2244e71e-4193-4d99-b4be-012e480bbc5b" />
 

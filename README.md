@@ -31,6 +31,9 @@ scikit-learn | Vertex AI Model Registry | Vertex AI Batch Prediction
 # ETL Job
 <img width="1240" height="510" alt="image" src="https://github.com/user-attachments/assets/a18292bb-cb03-43b9-95d3-f9d822b5cb3c" />
 
+# Vertex Ai Job
+<img width="562" height="397" alt="image" src="https://github.com/user-attachments/assets/640b0522-4707-4e0f-80fe-81d58276758e" />
+
 # BigQuery Data Warehouse & ML tables and views
 <img width="577" height="396" alt="image" src="https://github.com/user-attachments/assets/55d61c24-7f3a-4890-9556-2ea186d86a11" />
 
